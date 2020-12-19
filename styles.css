@@ -38,6 +38,11 @@ body {
   display: none;
 }
 
+.item-content {
+  align-items: center;
+  width: 75%;
+}
+
 .acordeon {
   margin-top: 70px;
   display: flex;
